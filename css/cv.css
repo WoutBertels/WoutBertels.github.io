@@ -56,7 +56,7 @@
     }
 }
 
-/** iPhone only **/
+
 
 @media screen and (max-device-width: 480px) {
     ul li {
@@ -161,7 +161,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/** @group core layout **/
+
 
 #w {
     margin: 0px 50px;
@@ -182,7 +182,7 @@ header {
     width: 100%;
 }
 
-/** @group personal settings **/
+
 
 #info {
     float: left;
@@ -205,7 +205,7 @@ header {
     padding: 5px;
 }
 
-/** @group skills **/
+
 
 #skills-left {
     display: block;
@@ -218,7 +218,7 @@ header {
     float: left;
 }
 
-/** @group clearfix **/
+
 
 .clearfix:after {
     content: ".";
